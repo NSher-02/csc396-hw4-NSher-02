@@ -1,2 +1,3 @@
-# Ignore dataset.txt
+# Ignore dataset files
 dataset.txt
+glove.6B.300d-vocabulary.txt
